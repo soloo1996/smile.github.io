@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>白鱼衣书</title>
+  
+  <subtitle>像牙塔</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-12-14T05:07:31.254Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>wangtao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《诗经·周南·关雎》</title>
+    <link href="http://example.com/2020/12/14/shi-jing-zhou-nan-guan-ju/"/>
+    <id>http://example.com/2020/12/14/shi-jing-zhou-nan-guan-ju/</id>
+    <published>2020-12-14T05:03:39.000Z</published>
+    <updated>2020-12-14T05:07:31.254Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;关雎&lt;/p&gt;
+&lt;p&gt;关关雎鸠，在河之洲。窈窕淑女，君子好逑。&lt;br&gt;参差荇菜，左右流之。窈窕淑女，寤寐求之。&lt;br&gt;求之不得，寤寐思服。悠哉悠哉，辗转反侧。&lt;br&gt;参差荇菜，左右采之。窈窕淑女，琴瑟友之。&lt;br&gt;参差荇菜，左右芼之。窈窕淑女，钟鼓乐之。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="文学" scheme="http://example.com/tags/%E6%96%87%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《诗经·卫风·淇奥》</title>
+    <link href="http://example.com/2020/12/13/shi-jing-qi-ao/"/>
+    <id>http://example.com/2020/12/13/shi-jing-qi-ao/</id>
+    <published>2020-12-13T15:50:12.000Z</published>
+    <updated>2020-12-14T05:09:36.261Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;《诗经·淇奥》&lt;br&gt;瞻彼淇奥，绿竹猗猗。有匪君子，如切如磋，如琢如磨。瑟兮僩兮，赫兮咺兮。有匪君子，终不可谖兮。瞻彼淇奥，绿竹青青。有匪君子，充耳琇莹，会弁如星。瑟兮僩兮，赫兮咺兮。有匪君子，终不可谖兮。瞻彼淇奥，绿竹如箦。有匪君子，如金如锡，如圭如璧。宽兮绰兮，猗重较兮。善戏谑兮，不为虐兮。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="文学" scheme="http://example.com/tags/%E6%96%87%E5%AD%A6/"/>
+    
+  </entry>
+  
+</feed>
