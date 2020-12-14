@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>《诗经·淇奥》</title>
+      <link href="2020/12/13/shi-jing-qi-ao/"/>
+      <url>2020/12/13/shi-jing-qi-ao/</url>
+      
+        <content type="html"><![CDATA[<p>#《诗经·淇奥》<br>瞻彼淇奥，绿竹猗猗。有匪君子，如切如磋，如琢如磨。瑟兮僩兮，赫兮咺兮。有匪君子，终不可谖兮。瞻彼淇奥，绿竹青青。有匪君子，充耳琇莹，会弁如星。瑟兮僩兮，赫兮咺兮。有匪君子，终不可谖兮。瞻彼淇奥，绿竹如箦。有匪君子，如金如锡，如圭如璧。宽兮绰兮，猗重较兮。善戏谑兮，不为虐兮。</p><a id="more"></a><p>译文<br>看那淇水弯弯岸，碧绿竹林片片连。高雅先生是君子，学问切磋更精湛，品德琢磨更良善。神态庄重胸怀广，地位显赫很威严。高雅先生真君子，一见难忘记心田。<br>看那淇水弯弯岸，绿竹袅娜连一片。高雅先生真君子，美丽良玉垂耳边，宝石镶帽如星闪。神态庄重胸怀广，地位显赫更威严。高雅先生真君子，一见难忘记心田。<br>看那淇水弯弯岸，绿竹葱茏连一片。高雅先生真君子，青铜器般见精坚，玉礼器般见庄严。宽宏大量真旷达，倚靠车耳驰向前。谈吐幽默真风趣，开个玩笑人不怨。</p><p>注释<br>淇：淇水，源出河南林县，东经淇县流入卫河。奥（yù）：水边弯曲的地方。<br>绿竹：一说绿为王刍，竹为扁蓄。猗（ē）猗：长而美貌。猗，通“阿”。<br>匪：通“斐”，有文采貌。<br>切、磋、琢、磨：治骨曰切，象曰磋，玉曰琢，石曰磨。均指文采好，有修养。切磋，本义是加工玉石骨器，引申为讨论研究学问；琢磨，本义是玉石骨器的精细加工，引申为学问道德上钻研深究。<br>瑟：仪容庄重。僩（xiàn）：神态威严。<br>赫：显赫。咺（xuān）：有威仪貌。<br>谖（xuān）：忘记。<br>充耳：挂在冠冕两旁的饰物，下垂至耳，一般用玉石制成。<br>琇（xiù）莹：似玉的美石，宝石。<br>会弁（kuài biàn）：鹿皮帽。会，鹿皮会合处，缀宝石如星。<br>箦（zé）：积的假借，堆积。<br>金、锡：黄金和锡，一说铜和锡。闻一多《风诗类钞》主张为铜和锡，还说：“古人铸器的青铜，便是铜与锡的合金，所以二者极被他们重视，而且每每连称。”<br>圭璧：圭，玉制礼器，上尖下方，在举行隆重仪式时使用；璧，玉制礼器，正圆形，中有小孔，也是贵族朝会或祭祀时使用。圭与璧制作精细，显示佩带者身份、品德高雅。<br>绰：旷达。一说柔和貌。<br>猗（yǐ）：通“倚”。较：古时车厢两旁作扶手的曲木或铜钩。<br>重（chóng）较，车厢上有两重横木的车子。为古代卿士所乘。<br>戏谑：开玩笑。<br>虐：粗暴。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 文学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="2020/12/10/hello-world/"/>
+      <url>2020/12/10/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
